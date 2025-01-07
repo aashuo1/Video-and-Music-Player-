@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000001</color>
+    <color name="blachite">#868688</color>
+    <color name="white">#FFFFFFFE</color>
+    <color name="fg_toggle">#2A8D8D8C</color>
+    <color name="fg_toggle_dark">#3E8D8D8C</color>
+</resources>
